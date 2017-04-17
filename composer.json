@@ -1,6 +1,6 @@
 {
-    "name": "imag/ldap-bundle",
-    "description": "LDAP Bundle for Symfony 2",
+    "name": "cti/ldap-bundle",
+    "description": "LDAP Bundle for Symfony 3",
     "homepage": "http://github.com/BorisMorel/LdapBundle",
     "license": "CeCILL",
     "authors": [
@@ -37,8 +37,8 @@
         "symfony/symfony": "3.2.*"
     },
     "autoload": {
-        "psr-0": { "IMAG\\LdapBundle": "" }
+        "psr-0": { "cti\\LdapBundle": "" }
     },
 
-    "target-dir": "IMAG/LdapBundle"
+    "target-dir": "cti/LdapBundle"
 }
