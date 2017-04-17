@@ -1,6 +1,6 @@
 {
-    "name": "imag/ldap-bundle",
-    "description": "LDAP Bundle for Symfony 2",
+    "name": "cti/ldap-bundle",
+    "description": "LDAP Bundle for Symfony 3",
     "homepage": "http://github.com/BorisMorel/LdapBundle",
     "license": "CeCILL",
     "authors": [
