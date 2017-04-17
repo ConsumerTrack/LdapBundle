@@ -37,8 +37,8 @@
         "symfony/symfony": "3.2.*"
     },
     "autoload": {
-        "psr-0": { "cti\\LdapBundle": "" }
+        "psr-0": { "IMAG\\LdapBundle": "" }
     },
 
-    "target-dir": "cti/LdapBundle"
+    "target-dir": "IMAG/LdapBundle"
 }
